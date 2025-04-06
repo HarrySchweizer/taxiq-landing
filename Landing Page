@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TaxIQ – Coming Soon</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f5f7fa;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      color: #2c3e50;
+      text-align: center;
+    }
+    .logo-placeholder {
+      width: 120px;
+      height: 120px;
+      background-color: #d1d8e0;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    p {
+      font-size: 1.2em;
+      color: #7f8c8d;
+      margin: 10px 0 30px;
+    }
+    a {
+      color: #3498db;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    footer {
+      position: absolute;
+      bottom: 10px;
+      font-size: 0.9em;
+      color: #bdc3c7;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo-placeholder">Logo</div>
+  <h1>Smart Steuern sparen</h1>
+  <p>Hier entsteht dein smarter Steuerassistent für den Kanton Zürich.</p>
+  <p><a href="mailto:tom@taxiq.ch">Kontakt: tom@taxiq.ch</a></p>
+  <footer>
+    &copy; 2025 Tom Schweizer – TaxIQ.ch
+  </footer>
+</body>
+</html>
